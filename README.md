@@ -1,7 +1,7 @@
 
-# Dell Inspiron 15 3567 macOS OpenCore 0.7.0 EFI
+# Dell Inspiron 15 3567 macOS OpenCore 0.6.8 EFI
 
-This is the OpenCore 0.7.0 EFI files needed to boot macOS Catalina and Big Sur on the Dell Inspiron 15 3567.
+This is the OpenCore 0.6.8 EFI files needed to boot macOS Catalina and Big Sur on the Dell Inspiron 15 3567.
 
 ![Dell Inspiron 15 3567](https://i.ibb.co/M5VWykd/DSC05970.jpg)
 
