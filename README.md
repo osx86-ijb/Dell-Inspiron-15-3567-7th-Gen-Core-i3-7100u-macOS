@@ -1,12 +1,12 @@
 
 # Dell Inspiron 15 3567 macOS OpenCore 0.6.8 EFI
 
-This is the OpenCore 0.6.8 EFI files needed to boot macOS Catalina and Big Sur on the Dell Inspiron 15 3567.
+This is the OpenCore 0.7.0 EFI files needed to boot macOS Catalina and Big Sur on the Dell Inspiron 15 3567.
 
 ![Dell Inspiron 15 3567](https://i.ibb.co/M5VWykd/DSC05970.jpg)
 
 ## !! ATTENTION !!
-_**Whilst this is a booting and "mostly" working EFI for this machine, do bear in mind that everyone has different hardware peripherals that they use, but for the most part, this should get it booted for you. There always could be more fine tuning done as well. This is meant to get you going in general.**_
+_**Whilst this is a booting and "mostly" working EFI for this machine, do bear in mind that everyone has different hardware peripherals that they use, but for the most part, this should get it booted for you. There always could be more fine tuning done as well. This is meant to get you going in general. There are quite a few things that still need to be finished being set up, such as: The Brightness Hot Keys need to be mapped properly, and the Q66 based ACPI error and PATM errors need to be corrected, as well as another other potential ones that I might have missed. Other than that, this EFI is a pretty solid starting point for most users, and most everything else should work appropriately. Feel free to contribute and to help assist me in making this EFI finalized 100%, so that we may fully enjoy this amazingly compatible machine on macOS. Thank you!**_
 
 ## The Hardware specs of this Notebook are as follows:
 
