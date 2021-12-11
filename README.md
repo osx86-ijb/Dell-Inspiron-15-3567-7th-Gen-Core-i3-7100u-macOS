@@ -1,12 +1,14 @@
 
-# Dell Inspiron 15 3567 macOS OpenCore 0.6.8 EFI
+# Dell Inspiron 15 3567 macOS OpenCore EFI
 
-This is the OpenCore 0.7.0 EFI files needed to boot macOS Catalina and Big Sur on the Dell Inspiron 15 3567.
+This repository houses the OpenCore EFI files needed to boot macOS Big Sur + on the Dell Inspiron 15 3567.
 
 ![Dell Inspiron 15 3567](https://i.ibb.co/M5VWykd/DSC05970.jpg)
 
 ## !! ATTENTION !!
 _**Whilst this is a booting and "mostly" working EFI for this machine, do bear in mind that everyone has different hardware peripherals that they use, but for the most part, this should get it booted for you. There always could be more fine tuning done as well. This is meant to get you going in general. There are quite a few things that still need to be finished being set up, such as: The Brightness Hot Keys need to be mapped properly, and the Q66 based ACPI error and PATM errors need to be corrected, as well as another other potential ones that I might have missed. Other than that, this EFI is a pretty solid starting point for most users, and most everything else should work appropriately. Feel free to contribute and to help assist me in making this EFI finalized 100%, so that we may fully enjoy this amazingly compatible machine on macOS. Thank you!**_
+
+_**Do note as well that I have my SMBIOS set differently at times as I am trying out different things and I have different reasons than others for doing so. With that being said, do bear and keep that in mind when and if you do try to use these files. As always, "Your Mileage May Vary"!
 
 ## The Hardware specs of this Notebook are as follows:
 
@@ -40,8 +42,6 @@ _**Whilst this is a booting and "mostly" working EFI for this machine, do bear i
 
 ## Badges
 
-[![Hackintosh Legend](https://img.shields.io/badge/Core-x86-blue)](https://github.com/Core-x86)
-
-[![Core x86](https://img.shields.io/badge/Hackintosh-Legend-red)](https://github.com/osx86-ijb)
+[![iJB](https://img.shields.io/badge/Hackintosh-Legend-red)](https://github.com/osx86-ijb)
 
 [![Shameless Devildriver Plug](https://img.shields.io/badge/Go%20There-Away%20From%20Me-brightgreeng)](https://www.youtube.com/watch?v=PjACk_dw1v8)
