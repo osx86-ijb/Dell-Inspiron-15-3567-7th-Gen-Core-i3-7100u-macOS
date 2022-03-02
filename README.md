@@ -5,6 +5,10 @@ This repository houses the OpenCore EFI files needed to boot macOS Big Sur + on 
 
 ![Dell Inspiron 15 3567](https://i.ibb.co/M5VWykd/DSC05970.jpg)
 
+## DISCLAIMER
+
+THIS INFORMATION/RESEARCH HAS BEEN DONE AND SHARED PURELY FOR EXPERIMENTAL AND RESEARCH PURPOSES, AND IS IN NO MAY MEANT TO PROMOTE CIRCUMVENTING OF ANYTHING THAT IS SOMEONE ELSE'S CORPORATE PRIVATE PROPERTY. THE INFORMATION LISTED HERE IS PURELY FOR EDUCATIONAL PURPOSES AND SHOULD YOU CHOOSE TO UTILIZE IT IN ANY WAY, I AM IN NO WAY RESPONSIBLE FOR ANY INJUNCTIONS/PROBLEMS THAT MAY OR MAY NOT ARISE AND/OR BE BROUGHT AGAINST ANOTHER FOR THEIR CHOOSING TO HAVE DONE SO.
+
 ## !! ATTENTION !!
 _**Whilst this is a booting and "mostly" working EFI for this machine, do bear in mind that everyone has different hardware peripherals that they use, but for the most part, this should get it booted for you. There always could be more fine tuning done as well. This is meant to get you going in general. There are quite a few things that still need to be finished being set up, such as: The Brightness Hot Keys need to be mapped properly, and the Q66 based ACPI error and PATM errors need to be corrected, as well as another other potential ones that I might have missed. Other than that, this EFI is a pretty solid starting point for most users, and most everything else should work appropriately. Feel free to contribute and to help assist me in making this EFI finalized 100%, so that we may fully enjoy this amazingly compatible machine on macOS. Thank you!**_
 
