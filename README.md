@@ -17,6 +17,8 @@ THIS INFORMATION/RESEARCH HAS BEEN DONE AND SHARED PURELY FOR EXPERIMENTAL AND R
   
 _**Whilst this is a booting and "mostly" working EFI for this machine, do bear in mind that everyone has different hardware peripherals that they use, but for the most part, this should get it booted for you. There always could be more fine tuning done as well. This is meant to get you going in general. There are quite a few things that still need to be finished being set up, such as: the Q66 based ACPI error and PATM errors that are present and need to be corrected. Other than that, this EFI is complete. Feel free to contribute and to help assist me in making this EFI finalized 100%, so that we may fully enjoy this amazingly compatible machine on macOS to it's fullest potential.**_
 
+_** STARTING WITH macOS 14.x.x SONOMA, ONE MUST CHANGE THEIR SMBIOS TO A SUPPORTED BIOS TO BYPASS THE DROPPING OF MACBOOKPRO14,1, AND ALSO UTILIZE OPENCORE LEGACY PATCHER IF USING A BROADCOM 94360NG NGFF WiFi + BT COMBO CARD TO RE-ENABLE THE CARD!! **_
+
 ## THIS EFI IS SONOMA READY AND WORKING AS OF THE LATEST DEV BETA AS EVIDENT FROM THE PROVIDED SCREENSHOT BELOW:
 
 ![Screenshot 2023-08-26 at 1 51 18 AM ](https://github.com/osx86-ijb/Dell-Inspiron-15-3567-7th-Gen-Core-i3-7100u-macOS/assets/67184728/8f907644-651f-413d-b957-512fe975c219)
